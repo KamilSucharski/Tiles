@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="zero_entries">#aaaaaa</color>
+    <color name="one_entry">#00AA00</color>
+    <color name="two_entries">#008800</color>
+    <color name="three_or_more_entries">#006600</color>
+</resources>
